@@ -14,11 +14,11 @@ This project analyzes features of students and predicts the relationship using m
 ## TASK 2 
 A project designed to use LangGraph  for creating an intelligent conversational agent.
 ### Features
-Multi-agent architecture: Specialized agents for math, weather, research, and more
-Memory: Persistent chat history using LangGraph’s MemorySaver
-Tool integration: Supports calculations, weather queries, and web search
-Dynamic routing: Supervisor agent intelligently delegates tasks to the right agent
-Extensible: Add new tools or agents with minimal code changes
+**Multi-agent architecture:** Specialized agents for math, weather, research, and more
+**Memory:** Persistent chat history using LangGraph’s MemorySaver
+**Tool integration:** Supports calculations, weather queries, and web search
+**Dynamic routing:** Supervisor agent intelligently delegates tasks to the right agent
+**Extensible:** Add new tools or agents with minimal code changes
 ### Setup & Requirements
 Python 3.9+
 ### Required Libraries:
