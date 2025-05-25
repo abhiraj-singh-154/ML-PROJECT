@@ -22,12 +22,12 @@ Extensible: Add new tools or agents with minimal code changes
 ### Setup & Requirements
 Python 3.9+
 ### Required Libraries:
-langchain
-langgraph
-langchain_google_genai
-langchain_community
-requests
+langchain ,
+langgraph ,
+langchain_google_genai ,
+langchain_community ,
+requests ,
 IPython
 ### Set your API keys as environment variables:
-GOOGLE_API_KEY for Gemini
+GOOGLE_API_KEY for Gemini ,
 OPENWEATHERMAP_API_KEY for weather queries
